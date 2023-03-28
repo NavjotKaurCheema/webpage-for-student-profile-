@@ -1,0 +1,75 @@
+<table border="1" width="100%" height="400" cellspacing="0" cellpadding="0" bgcolor="lightpink">
+    <tr>
+        <td align="center">
+            <table border="0">
+            <tr>
+                <td>
+                   <font size="6">SKILLS</font> 
+                </td>
+            </tr>
+        </table><br/><br/>
+        <table border="1" width="60%">
+            <tr>
+                <td>
+                    <b>Sr. No.</b>
+                </td>
+                <td>
+                    <b>Software/Language</b>
+                </td>
+                <td>
+                    <b>Level of efficiency</b>
+                </td>
+                
+            </tr>
+            <tr>
+                <td>
+                    1
+                </td>
+                <td>
+                   HTML
+                </td>
+                <td>
+                    Intermediate
+                </td>
+                
+            </tr>
+            <tr>
+                <td>
+                    2
+                </td>
+                <td>
+                    CSS
+                </td>
+                <td>
+                    Intermediate
+                </td>
+                
+            </tr>
+            <tr>
+                <td>
+                    3
+                </td>
+                <td>
+                   C++
+                </td>
+                <td>
+                    Intermediate
+                </td>
+                
+            </tr>
+            <tr>
+                <td>
+                    4
+                </td>
+                <td>
+                   Basic cloud computing
+                </td>
+                <td>
+                    Intermediate
+                </td>
+                
+            </tr>
+        </table>
+        </td>
+    </tr>
+</table>
